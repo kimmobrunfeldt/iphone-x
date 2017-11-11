@@ -1,8 +1,8 @@
 {
-  "name": "frontend-template",
+  "name": "iphone-x",
   "version": "1.0.0",
   "private": true,
-  "description": "Example of Browserify and other frontend tools",
+  "description": "iPhone X",
   "author": "Kimmo Brunfeldt",
   "license": "MIT",
   "scripts": {
@@ -20,10 +20,7 @@
     "minify-css": "cleancss --skip-aggressive-merging --skip-restructuring ./bundle.css -o ./bundle.css"
   },
   "dependencies": {
-    "bluebird": "^3.4.6",
-    "fastclick": "^1.0.6",
-    "lodash": "^4.15.0",
-    "progressbar.js": "^1.0.1"
+
   },
   "devDependencies": {
     "autoprefixer": "^6.4.1",
