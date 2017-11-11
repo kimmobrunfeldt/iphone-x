@@ -580,7 +580,7 @@ function splashLoop(initial) {
     if (!initial) {
         splash();
     }
-    setTimeout(splashLoop, randomInt(5000, 7000));
+    setTimeout(splashLoop, randomInt(3000, 4000));
 }
 splashLoop(true);
 
